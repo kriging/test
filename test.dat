@@ -1,3 +1,4 @@
+
 git init
 git add file
 git commit 
@@ -6,4 +7,5 @@ git commit -m
 git status
 git diff file.name
 
+git log
 
