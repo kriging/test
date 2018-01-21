@@ -8,4 +8,8 @@ git status
 git diff file.name
 
 git log
+git reset --hard HEAD^
+git reset --hard HEAD~100
+git reset --hard 345332
 
+git reflog
