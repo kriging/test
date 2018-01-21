@@ -1,0 +1,15 @@
+
+git init
+git add file
+git commit 
+git commit -m 
+
+git status
+git diff file.name
+
+git log
+git reset --hard HEAD^
+git reset --hard HEAD~100
+git reset --hard 345332
+
+git reflog
