@@ -13,3 +13,5 @@ git reset --hard HEAD~100
 git reset --hard 345332
 
 git reflog
+
+git diff HEAD --file.name
